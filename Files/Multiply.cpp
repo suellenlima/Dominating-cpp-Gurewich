@@ -1,3 +1,5 @@
+//this program shows how to assign default values to the function parameters.
+
 #include <iostream>
 using namespace std;
 
