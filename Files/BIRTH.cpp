@@ -1,3 +1,4 @@
+// how to use the date class.
 // including codes that verify the validity of object values ??within the constructor function
 
 #include <iostream>
