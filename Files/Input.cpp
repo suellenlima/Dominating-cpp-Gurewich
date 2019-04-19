@@ -1,3 +1,5 @@
+//illustrates the use of cin.
+
 #include <iostream>
 #include <stdlib.h>
 
