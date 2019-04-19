@@ -1,4 +1,4 @@
-// how to use a class
+// how to use a class and reference.
 
 #include <iostream>
 using namespace std;
