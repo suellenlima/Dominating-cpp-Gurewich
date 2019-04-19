@@ -1,4 +1,4 @@
-//This program demonstrates the use of derived and basic classes.
+// This program demonstrates the use of derived and basic classes.
 
 #include <iostream>
 #include <string.h>
