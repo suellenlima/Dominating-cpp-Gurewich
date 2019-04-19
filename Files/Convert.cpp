@@ -1,4 +1,4 @@
-// shows how to write code that enables the compiler to do data conversion between objects and basic variable types.
+//shows how to write code that enables the compiler to do data conversion between objects and basic variable types.
 
 #include <iostream>
 #include <string.h>
