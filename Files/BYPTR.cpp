@@ -1,3 +1,5 @@
+//Shows how to pass a parameter to the pointer function and still prevent the calling function from changing the value of the passed parameter.
+
 #include <iostream>
 #include <string.h>
 
