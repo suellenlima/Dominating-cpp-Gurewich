@@ -1,4 +1,4 @@
-// OUTPUT - Dominando o C++ - Gurewich
+// shows how to send characters to the screen.
 
 #include <iostream>
 #include <stdlib.h>
