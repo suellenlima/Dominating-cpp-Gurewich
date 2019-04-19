@@ -1,3 +1,4 @@
+// it shows how to use a pointer to a string as a data member of a class.
 // the program determines the number of characters in the string, dynamic allocation
 
 #include <iostream>
