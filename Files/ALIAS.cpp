@@ -1,4 +1,4 @@
-// informs the c ++ compiler that iMyVariable has two names
+// informs the c ++ compiler that iMyVariable has two names.
 
 #include <iostream>
 using namespace std;
