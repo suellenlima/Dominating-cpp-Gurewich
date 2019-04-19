@@ -1,3 +1,5 @@
+// this program illustrates the use of a function prototype.
+
 #include <iostream>
 using namespace std;
 
