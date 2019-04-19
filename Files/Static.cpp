@@ -1,4 +1,4 @@
-// It shows how a class that contains a static data member is defined. The program also shows how to initialize and access a static data member.
+//It shows how a class that contains a static data member is defined. The program also shows how to initialize and access a static data member.
 
 #include <iostream>
 #include <string.h>
