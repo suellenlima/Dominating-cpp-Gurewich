@@ -1,4 +1,5 @@
 // When you declare a member function as static, it can only use static variables.
+
 #include <iostream>
 #include <string.h>
 using namespace std;
