@@ -1,3 +1,4 @@
+// it is shown how to assign the values ​​from one object to another.
 // assignment operator. attribute value from one object to another.
 
 #include <iostream>
