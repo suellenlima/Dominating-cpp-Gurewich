@@ -1,4 +1,5 @@
-// informs the c ++ compiler that iMyVariable has two names
+// informs the c ++ compiler that iMyVariable has two names.
+//it is shown how to generate an alternative name for a variable.
 
 #include <iostream>
 using namespace std;
