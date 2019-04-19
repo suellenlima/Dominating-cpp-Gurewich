@@ -1,4 +1,4 @@
-// How to declare a function as a class-friendly function. With this, it can access the private members of the class.
+//How to declare a function as a class-friendly function. With this, it can access the private members of the class.
 
 #include <iostream>
 #include <string.h>
