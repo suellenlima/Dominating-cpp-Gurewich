@@ -1,8 +1,8 @@
+//illustrates the use of overloaded functions to combine the strcpy () and strncpy () functions.
+
 #include <iostream>
 #include <string.h>
 using namespace std;
-
-// overload function
 
 void stringcpy (char *to, const char *from);
 void stringcpy (char *to, const char *from, int lenght);
