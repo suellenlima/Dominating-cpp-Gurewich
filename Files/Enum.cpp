@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// In C ++, simply place the enum keyword before the enumerated variable once, in the declaration statement.
+// In C++, simply place the enum keyword before the enumerated variable once, in the declaration statement.
 
 enum number {one, two, three, four, five};
 
