@@ -1,3 +1,5 @@
+// Shows how to use the scope resolution operator.
+
 #include <iostream>
 using namespace std;
 
