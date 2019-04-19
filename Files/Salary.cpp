@@ -128,7 +128,8 @@ void Weeks::SetData(float wr)
 	fWeekRate = wr;
 }
 
-int main () {
+int main () 
+{
 	Commiss Employee101 ( "Mike White" );
 	Employee101.PrintEmployeeName();
 	
