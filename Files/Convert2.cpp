@@ -1,4 +1,4 @@
-// shows how to write a code that enables the computer to convert data between objects of different classes.
+//shows how to write a code that enables the computer to convert data between objects of different classes.
 
 #include <iostream>
 #include <string.h>
