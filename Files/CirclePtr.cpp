@@ -1,4 +1,4 @@
-// how to use a class
+// how to use a class and pointers
 
 #include <iostream>
 using namespace std;
