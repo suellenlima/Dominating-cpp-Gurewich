@@ -1,4 +1,4 @@
-// Shows how an operator can be overloaded.
+//Shows how an operator can be overloaded.
 
 #include <iostream>
 #include <string.h>
