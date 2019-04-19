@@ -1,5 +1,4 @@
 // how to use a class.
-
 #include <iostream>
 using namespace std;
 
