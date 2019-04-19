@@ -1,3 +1,4 @@
+//pass variable pointer to function.
 // when passing the variable pointer to the function, the called function can change the value of the variable in the function that makes the call
 
 #include <iostream>
