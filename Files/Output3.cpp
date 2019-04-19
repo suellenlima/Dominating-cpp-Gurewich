@@ -1,3 +1,5 @@
+// shows how to use the handlers in C++.
+
 #include <iostream>
 using namespace std;
 
