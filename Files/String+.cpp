@@ -1,4 +1,5 @@
-// Concatenation of Strings. Would not it be better if, instead of using the strcpy () and strcat () functions, you could use the + operator?
+// Concatenation of Strings. Would not it be better if, 
+// instead of using the strcpy () and strcat () functions, you could use the + operator?
 
 #include <iostream>
 #include <string.h>
