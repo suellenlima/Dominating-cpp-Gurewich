@@ -1,4 +1,4 @@
-
+// how to use an object as one of the data members of a class.
 #include <iostream>
 #include <string.h>
 
