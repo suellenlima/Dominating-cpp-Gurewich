@@ -1,3 +1,5 @@
+// shows how to send a variable to the screen.
+
 #include <iostream>
 using namespace std;
 
